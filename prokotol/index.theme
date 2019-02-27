@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=prokotol
+Comment=edited frome fantome
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=prokotol
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
