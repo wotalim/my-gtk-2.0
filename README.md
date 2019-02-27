@@ -6,7 +6,7 @@
 | Info | Using |
 | :--- | :---- |
 | OS | Debian 9.5 / Ubuntu 18.04 |
-| WM | Openbox |
+| WM | Openbox and XFWM |
 | DE | XFCE |
 
 ### Installation
