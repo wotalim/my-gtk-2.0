@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=lulba
+Comment=edited frome fantome
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=lulba
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
